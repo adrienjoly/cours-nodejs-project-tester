@@ -1,3 +1,5 @@
+DEPRECATED -- Use tests from `cours-nodejs-project-solution` repository.
+
 # Ava tests for Note Keeper API
 
 This repository contains automated tests to help students self-evaluate their implementation of their academic Node.js project: [API de gestion de notes personnelles](https://adrienjoly.com/cours-nodejs/05-proj/).
